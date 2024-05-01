@@ -1,4 +1,3 @@
-# @title Deteksi Jerawat Hasil Convert Ke Python { vertical-output: true, display-mode: "both" }
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
